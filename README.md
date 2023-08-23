@@ -1,18 +1,23 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e43e4&height=120&section=header"/>
 
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHLG08&show_icons=true&theme=midnight-purple"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHLG08&layout=compact&theme=midnight-purple"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6e43e4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Henrique;I'm+20+years+old;I+from+Brasil,+MG;I+study+systems+development+at+Kenzie+Academy;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuizHLG08&show_icons=true&count_private=true&hide_border=true&title_color=6e43e4&icon_color=6e43e4&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHLG08&layout=compact&hide_border=true&title_color=6e43e4&text_color=6e43e4&bg_color=0d1117" />
 </div>
 
-## Hardskills:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LuizHLG08&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-<div>
-   <img align="center" alt="html" height="130" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-   <img align="center" alt="css" height="130" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-   <img align="center" alt="node-js" height="130" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-   <img align="center" alt="java-script" height="130" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-   <img align="center" alt="react" height="130" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-   <img align="center" alt="java" height="130" width="140" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"/>
-</div>
+### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117&logoColor=yellow)&nbsp;
+![Spring](https://img.shields.io/badge/SpringBoot-0D1117?style=for-the-badge&logo=spring-boot&labelColor=0D1117)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e43e4&height=120&section=footer"/>
+
 
